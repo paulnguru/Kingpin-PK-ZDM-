@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Market Analysis & Signals - Kingpin PK Trading Hub</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="mentorship.html">Mentorship</a></li>
+            <li><a href="account-management.html">Account Management</a></li>
+            <li><a href="bot-programming.html">Bot Programming</a></li>
+            <li><a href="pool-trading.html">Pool Trading</a></li>
+            <li><a href="analysis.html" class="active">Market Analysis</a></li>
+            <li><a href="course.html">Trading Course</a></li>
+            <li><a href="payments.html">Payments</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section class="container">
+        <h1>Market Analysis & Signals</h1>
+        <p>Kingpin PK ZDM provides highly accurate trading analysis and signals for Forex, indices, 
+        crypto, and synthetic markets.</p>
+
+        <h2>Pricing</h2>
+        <ul>
+            <li><strong>Monthly Signals:</strong> KES / USD (Set your price here)</li>
+            <li><strong>Lifetime Signals:</strong> KES / USD (Set your price here)</li>
+            <li><strong>Full Market Analysis:</strong> Included</li>
+        </ul>
+
+        <h2>What You Get</h2>
+        <ul>
+            <li>Daily high probability signals</li>
+            <li>Live market breakdowns</li>
+            <li>Trend analysis and setups</li>
+            <li>Risk management guidelines</li>
+            <li>Entry, Stop Loss & Take Profit levels</li>
+        </ul>
+
+        <h2>Supported Markets</h2>
+        <ul>
+            <li>Forex pairs</li>
+            <li>Metals & Indices</li>
+            <li>Cryptocurrencies</li>
+            <li>Synthetic indices</li>
+        </ul>
+
+        <a class="btn" href="payments.html">Subscribe</a>
+    </section>
+
+</body>
+</html>
